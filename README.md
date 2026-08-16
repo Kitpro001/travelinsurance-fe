@@ -15,9 +15,9 @@ Frontend for the Travel Insurance application.
 - Angular CLI
 
 ## Setup
-1. Clone the backend repository
+1. Clone the frontend repository
 ```
-https://github.com/Kitpro001/travelinsurance-fe.git
+git clone https://github.com/Kitpro001/travelinsurance-fe.git
 ```
 
 2. Install dependencies
